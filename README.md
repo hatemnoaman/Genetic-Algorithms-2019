@@ -4,7 +4,6 @@
 Welcome to **Genetic Algorithms Course, 2019,** FCIS, BSU.
 
 Hope you are happy with this course :simple_smile: .
-
 # Course Projects
 Choose your course project from the projects listed below:
 1. [Code-breaking](https://en.wikipedia.org/wiki/Code-breaking), using the GA to search large solution spaces of ciphers for the one correct decryption.
