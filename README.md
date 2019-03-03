@@ -20,6 +20,7 @@ Choose your course project from the projects listed below:
 ## Refrences:
 - Fraser, Alex (1957). "Simulation of genetic systems by automatic digital computers. I. Introduction". Aust. J. Biol. Sci. 10: 484–491.
 - Melanie Mitchell. [Introduction to Genetic Algorithms](http://books.google.com/books?id=0eznlz0TF-IC&dq=melanie+mitchell+%22introduction+to+genetic+algorithms%22&pg=PP1&ots=sdrJ63-4Pg&sig=EYR7Tg57vZcDJJyPEyHYJkXjpdQ&hl=en&prev=http://www.google.com/search?q=Melanie+Mitchell+%22Introduction+to+Genetic+Algorithms%22&rls=com.microsoft:en-us&ie=UTF-8&oe=UTF-8&sa=X&oi=print&ct=title&cad=one-book-with-thumbnail). MIT Press, Cambridge, MA, USA, 1998.
+- Eiben, A. E., & Smith, J. E. (2003). [Introduction to evolutionary computing](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/e/e8/Introduction_to_Evolutionary_Computing.pdf) (Vol. 53, p. 18). Berlin: springer.‏
 
 ## Contacts:
 - eMail :love_letter: : 
